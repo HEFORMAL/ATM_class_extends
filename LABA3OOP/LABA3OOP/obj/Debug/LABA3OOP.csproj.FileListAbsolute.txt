@@ -1,0 +1,7 @@
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\bin\Debug\LABA3OOP.exe.config
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\bin\Debug\LABA3OOP.exe
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\bin\Debug\LABA3OOP.pdb
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\obj\Debug\LABA3OOP.csproj.AssemblyReference.cache
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\obj\Debug\LABA3OOP.csproj.CoreCompileInputs.cache
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\obj\Debug\LABA3OOP.exe
+C:\Users\SEMEN\source\repos\LABA3OOP\LABA3OOP\obj\Debug\LABA3OOP.pdb
